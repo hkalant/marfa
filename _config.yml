@@ -1,15 +1,14 @@
 title: "Harry Kalantzis"
 author: "Harry Kalantzis"
-description: "A short description."
+description: "a micro blog. learning technology; instructional design; pedagogy; HE; science; apple."
 baseurl: "/microblog"
 url: "https://harry.kalantzis.uk"
-email: "email@site.url"
-microblog_user: "joe"
+email: "hkalant@gmail.com"
 permalink: "/:title.html"
 relative_permalinks: false
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: America/New_York # A list of all available values can be found at https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # A list of all available values can be found at https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 highlighter: "rouge"
 markdown: "kramdown"
