@@ -1,9 +1,10 @@
 ---
 title: Now
 permalink: "/now/"
+profile: true
 ---
 
-In the spirit of [Derek Siver’s Now page](https://nownownow.com/about), here is what I am up to at the moment:
+In the spirit of [Derek Siver’s Now page](https://nownownow.com/about/), here is what I am up to at the moment:
 
 * I currently live in Oxford, United Kingdom.
 * I work for [Digital Services](https://www.brookes.ac.uk/learning-resources/digital-services-and-learning-technology/) at Oxford Brookes University.
