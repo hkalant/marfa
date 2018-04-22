@@ -1,6 +1,6 @@
 ---
 title: Now
-permalink: "/microblog/now/"
+permalink: "/now/"
 ---
 
 In the spirit of [Derek Siver’s Now page](https://nownownow.com/about), here is what I am up to at the moment:
