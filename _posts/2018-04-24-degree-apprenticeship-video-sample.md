@@ -4,7 +4,7 @@ title:  ""
 date:   2018-04-24 16:50:00
 ---
 
-<video width="auto" controls="controls" poster="https://harry.kalantzis.uk/microblog/assets/images/posts/degree-apprenticeship-sample.png">
+<video width="543" height="auto" controls="controls" poster="https://harry.kalantzis.uk/microblog/assets/images/posts/degree-apprenticeship-sample.png">
    <source type="video/mp4" src="https://harry.kalantzis.uk/microblog/assets/images/posts/degree-apprenticeship-sample.mp4" />
 </video>
 
